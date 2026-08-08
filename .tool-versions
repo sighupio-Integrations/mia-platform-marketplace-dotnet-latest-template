@@ -1,0 +1,3 @@
+dotnet 7.0.306
+make 4.4.1
+shellcheck 0.9.0
